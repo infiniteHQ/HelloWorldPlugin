@@ -3,7 +3,7 @@
     "group": "Basic tools",
     "name": "infinitehq.helloworld",
     "proper_name": "Hello world",
-    "auto_exec": false,
+    "auto_exec": true,
     "version": "1.0.0",
     "author": "Infinite",
     "contributors": [
