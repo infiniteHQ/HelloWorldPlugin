@@ -14,7 +14,7 @@
     "compatibility": [
         "1.0"
     ],
-    "path": "./main.lua",
+    "path": "./src/main.lua",
     "picture": "./resources/logo.png",
     "description": "Advanced and powerfull node editor with extensive and unlimited possibilities"
 }
