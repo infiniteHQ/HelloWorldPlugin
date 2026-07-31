@@ -1,0 +1,20 @@
+{
+    "type": "ep",
+    "group": "Basic tools",
+    "name": "infinitehq.helloworld",
+    "proper_name": "Hello world",
+    "auto_exec": false,
+    "version": "1.0.0",
+    "author": "Infinite",
+    "contributors": [
+        "Diego E. Moreno <d@infinite.si>"
+    ],
+    "deps": [
+    ],
+    "compatibility": [
+        "1.0"
+    ],
+    "path": "./main.lua",
+    "picture": "./resources/logo.png",
+    "description": "Advanced and powerfull node editor with extensive and unlimited possibilities"
+}

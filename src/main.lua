@@ -1,0 +1,1 @@
+VortexP.Log("Hello World !")
