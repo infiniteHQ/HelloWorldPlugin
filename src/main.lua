@@ -1,5 +1,5 @@
-VortexP.Log("Hello World !")
+Vortex.Log("Hello World !")
 
-VortexP.AddOutputEvent("save_all", function(args)
-    VortexP.Log("Save all event triggered !")
+Vortex.AddOutputEvent("save_all", function(args)
+    Vortex.Log("Save all event triggered !")
 end, "none")
